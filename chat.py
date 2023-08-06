@@ -1,7 +1,8 @@
 import streamlit as st
 
 # Set up the app title
-st.title("Machine Learning for Kids")
+st.title("Machine Learning Basics")
+
 
 # Introduction
 st.write("Hi there! Welcome to our Machine Learning Playground! 🚀")
@@ -139,4 +140,5 @@ st.write("Remember, this is just the beginning. There's so much more to explore!
 
 # Add a fun image
 st.image("https://image.freepik.com/free-vector/kids-studying-artificial-intelligence-robotics-cartoon-vector-illustration_114360-1289.jpg", caption="Learning together!")
-
+st.subheader("By kiki")
+st.markdown("[Follow me on Instagram](https://www.instagram.com/melmazinooo/)")
